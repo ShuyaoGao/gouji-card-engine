@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "如果在教学或研究中使用了本项目，请按以下信息引用。If you use this project, please cite it as below."
+title: "gouji-card-engine: 够级 (Gouji card engine)"
+type: software
+authors:
+  - family-names: Gao
+    given-names: Shuyao
+    email: "gaoshuyao.mk@gmail.com"
+    affiliation: "aSSIST University (Seoul School of Integrated Sciences and Technologies)"
+version: "1.0"
+date-released: "2026-10-14"
+license: MIT
+repository-code: "https://github.com/ShuyaoGao/gouji-card-engine"
+url: "https://shuyaogao.github.io/gouji-card-engine/"
+abstract: >-
+  A browser-only teaching demo (AI Teaching Demos): a browser-only teaching demo of Gouji, a six-player four-deck team shedding game from Shandong: alternating seats form two teams and a "gouji" combination can only be answered by the player sitting opposite. The JavaScript engine reproduces the Python engine move-by-move; AIs are rule-based and a side panel explains each greedy decision.
+keywords:
+  - course-demo
+  - card-game
+  - gouji
+  - game-engine
